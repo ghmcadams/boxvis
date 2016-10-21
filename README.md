@@ -26,7 +26,7 @@ Add the script to the page using a simple javascript element.  It will be automa
 I have manually tested this on the following platforms / browsers:
 
 - Mac OS: Chrome Version 53.0.2785.143
-- Mac OS: Firefox
+- Mac OS: Firefox Version 49.0.1
 - Windows 10: Edge 38.14393.0.0
 - Windows 10: Chrome
 - Windows 10: IE 11
