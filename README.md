@@ -23,7 +23,12 @@ Add the script to the page using a simple javascript element.  It will be automa
 
 ## Unknown limitations
 
-- Although I will be doing more testing soon, I have only tested this on a mac using Firefox and Chrome so far.
+I have manually tested this on the following platforms / browsers:
+
+- Mac OS: Chrome Version 53.0.2785.143
+- Mac OS: Firefox
+- Windows 10: Chrome
+- Windows 10: IE 11
 
 ## Bookmarklet
 
