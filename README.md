@@ -43,3 +43,5 @@ javascript:(function(){document.body.appendChild(document.createElement('script'
 ## Screenshots
 
 ![Usage on Nodejs.org](screenshot.png?raw=true)
+
+![Usage on GitHub](screenshot2.png?raw=true)
