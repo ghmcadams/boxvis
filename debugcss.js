@@ -306,5 +306,5 @@
   AddOutliners();
   addEvent(document.body, 'mouseover', mouseHandler);
   addEvent(window, 'scroll', scrollHandler);
-  // addEvent(document.body, 'mouseout', mouseOutHandler);
+  addEvent(document.body, 'mouseout', mouseOutHandler);
 }());
