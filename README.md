@@ -27,8 +27,10 @@ I have manually tested this on the following platforms / browsers:
 
 - Mac OS: Chrome Version 53.0.2785.143
 - Mac OS: Firefox
+- Windows 10: Edge 38.14393.0.0
 - Windows 10: Chrome
 - Windows 10: IE 11
+- Windows 10: Firefox 37.01 & 40.03
 
 ## Bookmarklet
 
